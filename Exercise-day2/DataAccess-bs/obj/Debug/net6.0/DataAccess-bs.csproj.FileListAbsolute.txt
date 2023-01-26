@@ -1,0 +1,34 @@
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\bin\Debug\net6.0\DataAccess-bs.deps.json
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\bin\Debug\net6.0\DataAccess-bs.runtimeconfig.json
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\bin\Debug\net6.0\DataAccess-bs.dll
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\bin\Debug\net6.0\DataAccess-bs.pdb
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.csproj.AssemblyReference.cache
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.AssemblyInfoInputs.cache
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.AssemblyInfo.cs
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.dll
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\obj\Debug\net6.0\refint\DataAccess-bs.dll
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.pdb
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.genruntimeconfig.cache
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\obj\Debug\net6.0\ref\DataAccess-bs.dll
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\bin\Debug\net6.0\Core-bs.dll
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\bin\Debug\net6.0\Core-bs.pdb
+C:\Users\ClassTime\source\repos\WebUi\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.csproj.CopyComplete
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\bin\Debug\net6.0\DataAccess-bs.deps.json
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\bin\Debug\net6.0\DataAccess-bs.runtimeconfig.json
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\bin\Debug\net6.0\DataAccess-bs.dll
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\bin\Debug\net6.0\DataAccess-bs.pdb
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\bin\Debug\net6.0\Core-bs.dll
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\bin\Debug\net6.0\Core-bs.pdb
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.AssemblyInfo.cs
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.csproj.CopyComplete
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.dll
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\obj\Debug\net6.0\refint\DataAccess-bs.dll
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.pdb
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\obj\Debug\net6.0\DataAccess-bs.genruntimeconfig.cache
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\DataAccess-bs\obj\Debug\net6.0\ref\DataAccess-bs.dll

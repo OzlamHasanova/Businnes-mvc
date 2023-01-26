@@ -1,0 +1,15 @@
+﻿@using Core_bs.Entities
+@model TeamMember
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<h1>Detail</h1>
+<h2>@Model.Name</h2>
+<p>@Model.Position</p>
+<img src="@Model.Image"/>
+<a asp-action="Index" class="btn btn-primary">
+	<i class="mdi">Go BACK</i>
+</a>
+
+

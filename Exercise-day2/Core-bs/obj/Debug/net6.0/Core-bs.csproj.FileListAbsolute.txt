@@ -1,0 +1,24 @@
+C:\Users\ClassTime\source\repos\WebUi\Core-bs\bin\Debug\net6.0\Core-bs.deps.json
+C:\Users\ClassTime\source\repos\WebUi\Core-bs\bin\Debug\net6.0\Core-bs.dll
+C:\Users\ClassTime\source\repos\WebUi\Core-bs\bin\Debug\net6.0\Core-bs.pdb
+C:\Users\ClassTime\source\repos\WebUi\Core-bs\obj\Debug\net6.0\Core-bs.csproj.AssemblyReference.cache
+C:\Users\ClassTime\source\repos\WebUi\Core-bs\obj\Debug\net6.0\Core-bs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\source\repos\WebUi\Core-bs\obj\Debug\net6.0\Core-bs.AssemblyInfoInputs.cache
+C:\Users\ClassTime\source\repos\WebUi\Core-bs\obj\Debug\net6.0\Core-bs.AssemblyInfo.cs
+C:\Users\ClassTime\source\repos\WebUi\Core-bs\obj\Debug\net6.0\Core-bs.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\source\repos\WebUi\Core-bs\obj\Debug\net6.0\Core-bs.dll
+C:\Users\ClassTime\source\repos\WebUi\Core-bs\obj\Debug\net6.0\refint\Core-bs.dll
+C:\Users\ClassTime\source\repos\WebUi\Core-bs\obj\Debug\net6.0\Core-bs.pdb
+C:\Users\ClassTime\source\repos\WebUi\Core-bs\obj\Debug\net6.0\ref\Core-bs.dll
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\Core-bs\bin\Debug\net6.0\Core-bs.deps.json
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\Core-bs\bin\Debug\net6.0\Core-bs.dll
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\Core-bs\bin\Debug\net6.0\Core-bs.pdb
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\Core-bs\obj\Debug\net6.0\Core-bs.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\Core-bs\obj\Debug\net6.0\Core-bs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\Core-bs\obj\Debug\net6.0\Core-bs.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\Core-bs\obj\Debug\net6.0\Core-bs.AssemblyInfo.cs
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\Core-bs\obj\Debug\net6.0\Core-bs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\Core-bs\obj\Debug\net6.0\Core-bs.dll
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\Core-bs\obj\Debug\net6.0\refint\Core-bs.dll
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\Core-bs\obj\Debug\net6.0\Core-bs.pdb
+C:\Users\User\Desktop\Exemple-2\Bilet 10\Exercise-day2\Core-bs\obj\Debug\net6.0\ref\Core-bs.dll
